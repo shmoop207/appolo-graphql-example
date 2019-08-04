@@ -12,7 +12,7 @@ tslib_1.__decorate([
     tslib_1.__metadata("design:type", serviceRepository_1.ServiceRepository)
 ], ServiceController.prototype, "manager", void 0);
 ServiceController = tslib_1.__decorate([
-    appolo_1.controller(),
+    appolo_1.controller("services"),
     appolo_1.singleton(),
     crud_1.crud({ model: service_1.Service })
 ], ServiceController);

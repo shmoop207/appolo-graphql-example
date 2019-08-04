@@ -12,7 +12,7 @@ tslib_1.__decorate([
     tslib_1.__metadata("design:type", carRepository_1.CarRepository)
 ], CarController.prototype, "manager", void 0);
 CarController = tslib_1.__decorate([
-    appolo_1.controller(),
+    appolo_1.controller("cars"),
     appolo_1.singleton(),
     crud_1.crud({ model: car_1.Car })
 ], CarController);

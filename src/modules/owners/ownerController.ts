@@ -5,7 +5,7 @@ import {CarRepository} from "../cars/carRepository";
 import {Owner} from "./owner";
 import {OwnerRepository} from "./ownerRepository";
 
-@controller()
+@controller("owners")
 @singleton()
 @crud({model: Owner})
 export class OwnerController extends CrudController<Owner> {

@@ -3,7 +3,7 @@ import {CrudController, crud} from "@appolo/crud";
 import {Car} from "./car";
 import {CarRepository} from "./carRepository";
 
-@controller()
+@controller("cars")
 @singleton()
 @crud({model: Car})
 export class CarController extends CrudController<Car> {

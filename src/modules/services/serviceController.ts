@@ -7,7 +7,7 @@ import {OwnerRepository} from "../owners/ownerRepository";
 import {Service} from "./service";
 import {ServiceRepository} from "./serviceRepository";
 
-@controller()
+@controller("services")
 @singleton()
 @crud({model: Service})
 export class ServiceController extends CrudController<Service> {

@@ -12,7 +12,7 @@ tslib_1.__decorate([
     tslib_1.__metadata("design:type", ownerRepository_1.OwnerRepository)
 ], OwnerController.prototype, "manager", void 0);
 OwnerController = tslib_1.__decorate([
-    appolo_1.controller(),
+    appolo_1.controller("owners"),
     appolo_1.singleton(),
     crud_1.crud({ model: owner_1.Owner })
 ], OwnerController);
