@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6e18f5f-98d2-429b-99aa-25f62f29e270" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/modules/cars/carResolver.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="32" column="58" lean-forward="true" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="272">
+                <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/modules/all.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/env/IEnv.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/env/all.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/decorators/Arg.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/modules/cars/car.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@appolo/validation</find>
+      <find>ResolverKey</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.ts" />
+        <option value="$PROJECT_DIR$/~src/models/Car.js" />
+        <option value="$PROJECT_DIR$/src/repositories/carRepository.ts" />
+        <option value="$PROJECT_DIR$/src/repositories/ownerRepository.ts" />
+        <option value="$PROJECT_DIR$/src/repositories/serviceRepository.ts" />
+        <option value="$PROJECT_DIR$/src/controllers.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/src/getAllModel.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/src/interfaces.ts" />
+        <option value="$PROJECT_DIR$/src/controllers/carController.ts" />
+        <option value="$PROJECT_DIR$/src/controllers/ownerController.ts" />
+        <option value="$PROJECT_DIR$/src/controllers/serviceController.ts" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/src/bootstrap.ts" />
+        <option value="$PROJECT_DIR$/config/modules/all.ts" />
+        <option value="$PROJECT_DIR$/src/models/service.ts" />
+        <option value="$PROJECT_DIR$/src/resolvers/ownerResolver.ts" />
+        <option value="$PROJECT_DIR$/src/resolvers/serviceResolver.ts" />
+        <option value="$PROJECT_DIR$/src/models/owner.ts" />
+        <option value="$PROJECT_DIR$/src/resolvers/carResolver.ts" />
+        <option value="$PROJECT_DIR$/src/models/car.ts" />
+        <option value="$PROJECT_DIR$/src/modules/cars/carController.ts" />
+        <option value="$PROJECT_DIR$/src/modules/cars/carRepository.ts" />
+        <option value="$PROJECT_DIR$/src/modules/owners/ownerResolver.ts" />
+        <option value="$PROJECT_DIR$/src/modules/services/service.ts" />
+        <option value="$PROJECT_DIR$/src/modules/services/serviceResolver.ts" />
+        <option value="$PROJECT_DIR$/src/modules/services/serviceController.ts" />
+        <option value="$PROJECT_DIR$/src/modules/owners/ownerController.ts" />
+        <option value="$PROJECT_DIR$/src/modules/owners/owner.ts" />
+        <option value="$PROJECT_DIR$/src/modules/cars/car.ts" />
+        <option value="$PROJECT_DIR$/src/modules/cars/carResolver.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="appolo-graphql-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appolo-graphql-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appolo-graphql-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appolo-graphql-example" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appolo-graphql-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appolo-graphql-example" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="env" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appolo-graphql-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appolo-graphql-example" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appolo-graphql-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appolo-graphql-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appolo-graphql-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appolo-graphql-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appolo-graphql-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appolo-graphql-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="cars" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resolvers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/owners" />
+      <recent name="$PROJECT_DIR$/src/modules/services" />
+      <recent name="$PROJECT_DIR$/src/modules/cars" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resolvers" />
+      <recent name="$PROJECT_DIR$/src/controllers" />
+      <recent name="$PROJECT_DIR$/src/repositories" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="MONGO" value="mongodb://heroku_86mn4t4b:hnmj1nuenvu8sffs3q8k4nj1pe@ds127644.mlab.com:27644/heroku_86mn4t4b" />
+      </envs>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6e18f5f-98d2-429b-99aa-25f62f29e270" name="Default Changelist" comment="" />
+      <created>1561119981275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561119981275</updated>
+      <workItem from="1561119982493" duration="7357000" />
+      <workItem from="1561538164165" duration="599000" />
+      <workItem from="1564330132877" duration="5476000" />
+      <workItem from="1564389476673" duration="2419000" />
+      <workItem from="1564418134943" duration="15145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30996000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.34715027" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32866243" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/models/car.js" />
+        <option value="$PROJECT_DIR$/src/models/car.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/all.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/app.js.map" />
+        <option value="$PROJECT_DIR$/src/models/owner.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/all.js.map" />
+        <option value="$PROJECT_DIR$/src/models/owner.js" />
+        <option value="$PROJECT_DIR$/src/models/service.js.map" />
+        <option value="$PROJECT_DIR$/src/models/service.js" />
+        <option value="$PROJECT_DIR$/src/repositories/carRepository.js.map" />
+        <option value="$PROJECT_DIR$/src/repositories/carRepository.js" />
+        <option value="$PROJECT_DIR$/src/repositories/ownerRepository.js" />
+        <option value="$PROJECT_DIR$/src/repositories/ownerRepository.js.map" />
+        <option value="$PROJECT_DIR$/src/repositories/serviceRepository.js.map" />
+        <option value="$PROJECT_DIR$/src/repositories/serviceRepository.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/module/src/baseController.js.map" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/module/src/baseController.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/module/src/getAllModel.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/module/src/getAllModel.js.map" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/module/src/defaults.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/module/src/defaults.js.map" />
+        <option value="$PROJECT_DIR$/src/controllers/carController.js.map" />
+        <option value="$PROJECT_DIR$/src/controllers/carController.js" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/src/crudController.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/test/spec.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/test/spec.js.map" />
+        <option value="$PROJECT_DIR$/../appolo-module-validator/module/src/defaults.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-validator/module/src/defaults.js.map" />
+        <option value="$PROJECT_DIR$/../appolo-module-validator/test/mock/src/controllers/manager.js.map" />
+        <option value="$PROJECT_DIR$/../appolo-module-validator/test/mock/src/controllers/manager.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/test/mock/testController.js.map" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/test/mock/testController.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/test/mock/test.js.map" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/test/mock/test.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/test/mock/testManager.js" />
+        <option value="$PROJECT_DIR$/../appolo-module-crud/test/mock/testManager.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-platform-api/src/models/tag/filghtDates.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-platform-api/src/models/tag/rateLimit.js" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/config/modules/all.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/crudModule.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/src/interfaces.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/src/crudController.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/src/routeModels.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/src/defaults.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@appolo/crud/module/src/decorator.js.map" />
+        <option value="$PROJECT_DIR$/src/controllers/ownerController.js.map" />
+        <option value="$PROJECT_DIR$/src/controllers/ownerController.js" />
+        <option value="$PROJECT_DIR$/src/controllers/serviceController.js.map" />
+        <option value="$PROJECT_DIR$/src/controllers/serviceController.js" />
+        <option value="$PROJECT_DIR$/src/bootstrap.js" />
+        <option value="$PROJECT_DIR$/src/bootstrap.js.map" />
+        <option value="$PROJECT_DIR$/src/resolvers/carResolver.js.map" />
+        <option value="$PROJECT_DIR$/src/resolvers/carResolver.js" />
+        <option value="$PROJECT_DIR$/src/resolvers/ownerResolver.js" />
+        <option value="$PROJECT_DIR$/src/resolvers/ownerResolver.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-games-api/src/bus/request/~updateAuthUserScopeRequest.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-games-api/src/bus/request/~getReportRequest.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-games-api/src/bus/request/~runReportQueryRequest.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-games-api/src/bus/request/~getReportingMetaDataRequest.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-reporting/test/spec/unit/operatorFilterSpec.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-reporting/test/spec/unit/operatorFilterSpec.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-skynet/src/bus/request/publisher/getSiteListRequest.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-skynet/src/tasks/publisher/checkPendingApprovalDomainsTask.js.map" />
+        <option value="$PROJECT_DIR$/src/resolvers/serviceResolver.js.map" />
+        <option value="$PROJECT_DIR$/src/resolvers/serviceResolver.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-framework-common/node_modules/appolo/lib/routes/decorate.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-framework-common/node_modules/appolo/lib/routes/decorate.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-framework-common/node_modules/appolo/lib/interfaces/IApp.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-framework-common/node_modules/appolo/lib/interfaces/events.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-framework-common/node_modules/appolo/lib/interfaces/IApp.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-framework-common/node_modules/appolo/lib/interfaces/events.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-games-api/node_modules/@vidazoo/module-data/src/platform/requests/settingsPlatformRequest.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-games-api/node_modules/@vidazoo/module-data/src/connections/requests/settingsConnectionsRequest.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-games-api/node_modules/@vidazoo/module-data/src/publishers/requests/getAllSiteListRequest.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/module-data/src/publishers/requests/getAllSiteListRequest.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/module-data/src/connections/requests/settingsConnectionsRequest.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/module-data/src/platform/requests/settingsPlatformRequest.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/osVersionTargetingHandler.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/osTargetingHandler.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/osVersionTargetingHandler.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/osTargetingHandler.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/vidazoo-platform-ad-server/src/templates/milkshake/milkshakeTemplateHandler.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/countriesListTargetingHandler.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/countryTargetingHandler.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/gameTargetingHandler.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/ifaTargetingHandler.js" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/gameTargetingHandler.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/ifaTargetingHandler.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/countriesListTargetingHandler.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/games-ad-server/src/managers/ads/targeting/handlers/countryTargetingHandler.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/module-data/src/connections/requests/settingsConnectionsRequest.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/module-data/src/publishers/requests/getAllSiteListRequest.js.map" />
+        <option value="$PROJECT_DIR$/../../vidazoo/module-data/src/platform/requests/settingsPlatformRequest.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@appolo/mongo/module/src/baseCrudManager.ts</url>
+          <line>154</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@appolo/mongo/module/src/baseCrudManager.ts</url>
+          <line>157</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/modules/cars/carResolver.ts</url>
+          <line>58</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>car.doc</expression-string>
+        <language-id>TypeScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>car</expression-string>
+        <language-id>TypeScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>car.title</expression-string>
+        <language-id>TypeScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>car.toObject()</expression-string>
+        <language-id>TypeScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>car.owner_id</expression-string>
+        <language-id>TypeScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>schema</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/~src/config/swagger.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/~src/server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/~src/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/~src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/decorators/Field.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="3" column="83" selection-start-line="3" selection-start-column="83" selection-end-line="3" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/utils/buildSchema.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/schema/schema-generator.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/schema/schema-generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="351" column="24" lean-forward="true" selection-start-line="351" selection-start-column="24" selection-end-line="351" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/~src/models/Car.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/~src/schema/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="115" column="14" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/mongo/module/src/baseCrudManager.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="133" column="17" selection-start-line="133" selection-start-column="17" selection-end-line="133" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/mongo/module/src/baseCrudManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="105" column="9" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/crud/module/src/interfaces.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/crud/module/src/defaults.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/crud/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/crud/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#14#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cars/carController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cars/carRepository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/owners/ownerRepository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/services/service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/services/serviceRepository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/services/serviceResolver.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/services/serviceController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/owners/ownerController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/owners/ownerResolver.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/graphql/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/graphql/module/IOptions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@appolo/graphql/module/graphqlModule.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/decorators/types.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/decorators/InputType.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/resolvers/create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/graphql-extensions/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="273" column="17" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/graphql/jsutils/promiseReduce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/graphql/execution/execute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/apollo-server-core/src/requestPipeline.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="341" column="8" selection-start-line="341" selection-start-column="8" selection-end-line="341" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/apollo-server-core/dist/requestPipeline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/apollo-server-core/src/runHttpQuery.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="296" column="31" selection-start-line="296" selection-start-column="31" selection-end-line="296" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/resolvers/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/resolvers/validate-arg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/owners/owner.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cars/car.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/type-graphql/dist/decorators/Arg.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/env/IEnv.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/env/all.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/modules/all.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cars/carResolver.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="32" column="58" lean-forward="true" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
