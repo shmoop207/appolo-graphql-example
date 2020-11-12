@@ -1,4 +1,4 @@
-import { createApp } from "appolo";
+import { createApp } from "@appolo/core";
 
 
 (async () => {

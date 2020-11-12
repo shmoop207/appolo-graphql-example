@@ -1,13 +1,14 @@
-import { IRequest, IResponse, NextFn, App } from "appolo";
+import { IRequest, IResponse, NextFn } from "@appolo/route";
+import { App } from "@appolo/core";
 import bodyParser = require("body-parser");
 import    serve = require("serve-static");
 import    path = require("path");
 import    cors = require("cors");
 
 module.exports = function(app: App) {
-  app.use(bodyParser.json());
-  app.use(bodyParser.urlencoded({ extended: true }));
-  app.use(cors());
-  app.use(serve(path.join(__dirname, "../../public")));
+  app.route.use(bodyParser.json())
+      .use(bodyParser.urlencoded({ extended: true }))
+      .use(cors())
+      .use(serve(path.join(__dirname, "../../public")));
 
 };

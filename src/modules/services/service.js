@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Service = void 0;
 const tslib_1 = require("tslib");
 const mongo_1 = require("@appolo/mongo");
 const validator_1 = require("@appolo/validator");
@@ -14,19 +15,19 @@ tslib_1.__decorate([
 ], Service.prototype, "_id", void 0);
 tslib_1.__decorate([
     mongo_1.propRef(car_1.Car),
-    validator_1.IsString(),
+    validator_1.string(),
     graphql_1.Field(type => owner_1.Owner),
     tslib_1.__metadata("design:type", Object)
 ], Service.prototype, "car_id", void 0);
 tslib_1.__decorate([
     mongo_1.prop(),
-    validator_1.IsString(),
+    validator_1.string(),
     graphql_1.Field(),
     tslib_1.__metadata("design:type", String)
 ], Service.prototype, "name", void 0);
 tslib_1.__decorate([
     mongo_1.prop(),
-    validator_1.IsNumber(),
+    validator_1.number(),
     graphql_1.Field(),
     tslib_1.__metadata("design:type", Number)
 ], Service.prototype, "date", void 0);

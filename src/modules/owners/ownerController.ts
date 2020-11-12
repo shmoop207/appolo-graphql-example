@@ -1,4 +1,5 @@
-import {singleton, controller, inject} from "appolo";
+import {singleton, inject} from "@appolo/inject";
+import {controller} from "@appolo/route";
 import {CrudController, crud} from "@appolo/crud";
 import {Car} from "../cars/car";
 import {CarRepository} from "../cars/carRepository";

@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const appolo_1 = require("appolo");
+const core_1 = require("@appolo/core");
 (async () => {
     try {
-        await appolo_1.createApp().launch();
+        await core_1.createApp().launch();
     }
     catch (e) {
         console.error("failed to launch ", e.stack);

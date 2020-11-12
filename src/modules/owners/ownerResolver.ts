@@ -1,5 +1,5 @@
 import {Resolver, FieldResolver, Root, Query, Register, Arg} from "@appolo/graphql";
-import {define, singleton, inject} from "appolo";
+import {define, singleton, inject} from "@appolo/inject";
 import {Car} from "../cars/car";
 import {CarRepository} from "../cars/carRepository";
 import {Owner} from "./owner";

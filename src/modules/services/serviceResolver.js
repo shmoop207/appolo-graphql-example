@@ -1,8 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.ServiceResolver = void 0;
 const tslib_1 = require("tslib");
 const graphql_1 = require("@appolo/graphql");
-const appolo_1 = require("appolo");
+const inject_1 = require("@appolo/inject");
 const car_1 = require("../cars/car");
 const carRepository_1 = require("../cars/carRepository");
 const ownerRepository_1 = require("../owners/ownerRepository");
@@ -22,15 +23,15 @@ let ServiceResolver = class ServiceResolver {
     }
 };
 tslib_1.__decorate([
-    appolo_1.inject(),
+    inject_1.inject(),
     tslib_1.__metadata("design:type", ownerRepository_1.OwnerRepository)
 ], ServiceResolver.prototype, "ownerRepository", void 0);
 tslib_1.__decorate([
-    appolo_1.inject(),
+    inject_1.inject(),
     tslib_1.__metadata("design:type", carRepository_1.CarRepository)
 ], ServiceResolver.prototype, "carRepository", void 0);
 tslib_1.__decorate([
-    appolo_1.inject(),
+    inject_1.inject(),
     tslib_1.__metadata("design:type", serviceRepository_1.ServiceRepository)
 ], ServiceResolver.prototype, "serviceRepository", void 0);
 tslib_1.__decorate([
@@ -56,7 +57,7 @@ tslib_1.__decorate([
 ServiceResolver = tslib_1.__decorate([
     graphql_1.Resolver(of => service_1.Service),
     graphql_1.Register(),
-    appolo_1.singleton()
+    inject_1.singleton()
 ], ServiceResolver);
 exports.ServiceResolver = ServiceResolver;
 //# sourceMappingURL=serviceResolver.js.map

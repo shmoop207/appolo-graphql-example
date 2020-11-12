@@ -1,8 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.OwnerResolver = void 0;
 const tslib_1 = require("tslib");
 const graphql_1 = require("@appolo/graphql");
-const appolo_1 = require("appolo");
+const inject_1 = require("@appolo/inject");
 const car_1 = require("../cars/car");
 const carRepository_1 = require("../cars/carRepository");
 const owner_1 = require("./owner");
@@ -21,11 +22,11 @@ let OwnerResolver = class OwnerResolver {
     }
 };
 tslib_1.__decorate([
-    appolo_1.inject(),
+    inject_1.inject(),
     tslib_1.__metadata("design:type", ownerRepository_1.OwnerRepository)
 ], OwnerResolver.prototype, "ownerRepository", void 0);
 tslib_1.__decorate([
-    appolo_1.inject(),
+    inject_1.inject(),
     tslib_1.__metadata("design:type", carRepository_1.CarRepository)
 ], OwnerResolver.prototype, "carRepository", void 0);
 tslib_1.__decorate([
@@ -51,7 +52,7 @@ tslib_1.__decorate([
 OwnerResolver = tslib_1.__decorate([
     graphql_1.Resolver(of => owner_1.Owner),
     graphql_1.Register(),
-    appolo_1.singleton()
+    inject_1.singleton()
 ], OwnerResolver);
 exports.OwnerResolver = OwnerResolver;
 //# sourceMappingURL=ownerResolver.js.map

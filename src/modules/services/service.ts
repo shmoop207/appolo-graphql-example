@@ -1,5 +1,5 @@
 import {prop, schema, Schema, model, mongoose,Ref,propRef} from "@appolo/mongo";
-import {IsString, IsNumber} from "@appolo/validator";
+import {string,number} from "@appolo/validator";
 import {Owner} from "../owners/owner";
 import {Car} from "../cars/car";
 import { Field, ID, ObjectType, Int } from "@appolo/graphql";
@@ -13,17 +13,17 @@ export class Service extends Schema {
     _id:string;
 
     @propRef(Car)
-    @IsString()
+    @string()
     @Field(type => Owner)
     car_id: Ref<Owner>;
 
     @prop()
-    @IsString()
+    @string()
     @Field()
     name: string;
 
     @prop()
-    @IsNumber()
+    @number()
     @Field()
     date: number
 }

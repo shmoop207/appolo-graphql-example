@@ -1,5 +1,6 @@
 import {prop, schema, Schema, model, mongoose, propRef, Ref} from "@appolo/mongo";
-import {IsString, IsNumber,IsOptional,MinLength} from "@appolo/validator";
+import {string,number} from "@appolo/validator";
+
 import {ValidateGroups} from "@appolo/crud";
 import {Owner} from "../owners/owner";
 import { Field, ID, ObjectType, Int, InputType } from "@appolo/graphql";
@@ -14,28 +15,27 @@ export class Car extends Schema {
     _id: string;
 
     @propRef(Owner)
-    @IsString()
+    @string()
     @Field(type => String)
     owner_id: Ref<Owner>;
 
     @prop()
-    @IsString()
+    @string().min(5)
     @Field()
-    @MinLength(5)
     title: string;
 
     @prop()
-    @IsString()
+    @string()
     @Field()
     brand: string;
 
     @prop()
-    @IsNumber()
+    @number()
     @Field()
     price: number;
 
     @prop()
-    @IsNumber()
+    @number()
     @Field()
     age: number;
 

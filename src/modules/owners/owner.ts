@@ -1,5 +1,5 @@
 import {prop, schema, Schema, model, mongoose} from "@appolo/mongo";
-import {IsString, IsNumber} from "@appolo/validator";
+import {string} from "@appolo/validator";
 import { Field, ID, ObjectType, Int,InputType } from "@appolo/graphql";
 
 @model()
@@ -12,17 +12,17 @@ export  class Owner extends Schema{
 	_id: string;
 
 	@prop()
-	@IsString()
+	@string()
 	@Field()
 	firstName: string;
 
 	@prop()
-	@IsString()
+	@string()
 	@Field()
 	lastName: string;
 
 	@prop()
-	@IsString()
+	@string()
 	@Field()
 	email: string;
 }

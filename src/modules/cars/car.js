@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Car = void 0;
 const tslib_1 = require("tslib");
 const mongo_1 = require("@appolo/mongo");
 const validator_1 = require("@appolo/validator");
@@ -13,32 +14,31 @@ tslib_1.__decorate([
 ], Car.prototype, "_id", void 0);
 tslib_1.__decorate([
     mongo_1.propRef(owner_1.Owner),
-    validator_1.IsString(),
+    validator_1.string(),
     graphql_1.Field(type => String),
     tslib_1.__metadata("design:type", Object)
 ], Car.prototype, "owner_id", void 0);
 tslib_1.__decorate([
     mongo_1.prop(),
-    validator_1.IsString(),
+    validator_1.string().min(5),
     graphql_1.Field(),
-    validator_1.MinLength(5),
     tslib_1.__metadata("design:type", String)
 ], Car.prototype, "title", void 0);
 tslib_1.__decorate([
     mongo_1.prop(),
-    validator_1.IsString(),
+    validator_1.string(),
     graphql_1.Field(),
     tslib_1.__metadata("design:type", String)
 ], Car.prototype, "brand", void 0);
 tslib_1.__decorate([
     mongo_1.prop(),
-    validator_1.IsNumber(),
+    validator_1.number(),
     graphql_1.Field(),
     tslib_1.__metadata("design:type", Number)
 ], Car.prototype, "price", void 0);
 tslib_1.__decorate([
     mongo_1.prop(),
-    validator_1.IsNumber(),
+    validator_1.number(),
     graphql_1.Field(),
     tslib_1.__metadata("design:type", Number)
 ], Car.prototype, "age", void 0);

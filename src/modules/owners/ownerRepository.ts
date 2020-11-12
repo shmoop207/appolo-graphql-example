@@ -1,5 +1,5 @@
-import {singleton, define} from "appolo";
-import {injectModel, Model, BaseCrudManager} from "@appolo/mongo";
+import {singleton, define} from "@appolo/inject";
+import {model, Model, BaseCrudManager} from "@appolo/mongo";
 import {Car} from "../cars/car";
 import {Owner} from "./owner";
 
@@ -7,5 +7,5 @@ import {Owner} from "./owner";
 @singleton()
 export class OwnerRepository extends BaseCrudManager<Owner> {
 
-    @injectModel(Owner) model: Model<Owner>;
+    @model(Owner) model: Model<Owner>;
 }
