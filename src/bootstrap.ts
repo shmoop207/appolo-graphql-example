@@ -14,15 +14,15 @@ export class Bootstrap implements IBootstrap {
     @inject() ownerRepository: OwnerRepository;
 
     public async run() {
-        let owner = await this.ownerRepository.create({email: "test@aaa.com", firstName: "aaa", "lastName": "bbb"});
-        let car = await this.carRepository.create({
-            age: 2,
-            brand: "honda",
-            price: 1000,
-            owner_id: owner._id.toString(),
-            title: "test"
-        });
-
-        await this.serviceRepository.create({date:Date.now(),name:"fix car",car_id:car._id.toString()})
+        // let owner = await this.ownerRepository.create({email: "test@aaa.com", firstName: "aaa", "lastName": "bbb"});
+        // let car = await this.carRepository.create({
+        //     age: 2,
+        //     brand: "honda",
+        //     price: 1000,
+        //     owner_id: owner._id.toString(),
+        //     title: "test"
+        // });
+        //
+        // await this.serviceRepository.create({date:Date.now(),name:"fix car",car_id:car._id.toString()})
     }
 }
